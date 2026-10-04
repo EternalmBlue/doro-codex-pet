@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="303" height="138" alt="image" src="https://github.com/user-attachments/assets/fb8f461f-7dd7-44b3-8b94-9a0a5fdce115" />
+
 
 
 # Doro Codex Pet
